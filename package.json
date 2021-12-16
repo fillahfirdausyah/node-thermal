@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "escpos": "^3.0.0-alpha.6",
+    "escpos-usb": "^3.0.0-alpha.4",
+    "node-thermal-printer": "^4.1.2"
+  }
+}
