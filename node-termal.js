@@ -25,7 +25,7 @@ let getData = async () => {
   console.log("Printer connected:", isConnected);
 
   printer.alignCenter();
-  await printer.printImage("./img/olaii-logo-black-small.png");
+  // await printer.printImage("./img/olaii-logo-black-small.png");
 
   printer.alignLeft();
   printer.newLine();
